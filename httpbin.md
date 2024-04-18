@@ -1,7 +1,22 @@
-# httpbin
+# Konnect Labs
 
-[httpbin](http://httpbin.org/) is a simple HTTP Request & Response Service created by [Kenneth Reitz](https://kennethreitz.org/).
+Thank you for participating in the Kong Konnect Labs. 
 
-It exposes all kind of test and example endpoints that you can use to test your HTTP clients. 
+You can provide extended descriptions of your API products with a Markdown (.md) file. The contents of this file will be displayed as the introduction to your API in the Dev Portal. API product descriptions can be any markdown document that describes your service such as:
 
-Here at Kong we use httpbin for the majority of our tests and example use cases. Especially the */anything* endpoint is very useful for testing as it echos back all request data.
+- Release notes
+- Support and SLA
+- Business context and use cases
+- Deployment workflows
+
+## Contact Information
+- **Kong Konnect Gateway:** [http://konglabs.service-connectivity.com](http://konglabs.service-connectivity.com)
+- **Email:** emea-konnectlabs@konghq.com
+
+## About You
+- What you do? 
+- Your role
+
+## Feedback about the lab
+- What did you like?
+- What can be improved?
